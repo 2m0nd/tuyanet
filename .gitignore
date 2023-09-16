@@ -348,3 +348,11 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+.idea/.idea.tuyanet.dir/.idea/
+
+.DS_Store
+
+src/TuyaNet.Console/Database.secret.json
+
+src/.idea/.idea.TuyaNet/.idea/
